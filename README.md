@@ -1,2 +1,4 @@
-# DataStrutures
-Basic Program on DS
+**Disclaimer**
+This repository contains basic code files created as part of the graduate program in Computer Science at St. Thomas College (Autonomous), Thrissur.
+Please note that many of the code snippets within this repository were generated with the assistance of AI tools. While these tools have been designed to produce accurate and functional code, there is no guarantee of its correctness, efficiency, or suitability for specific applications. Use of the code within this repository is entirely at your own risk. You are free to use, modify, and redistribute the code, but the author assumes no responsibility for any issues or damages that may arise from its use. It is strongly recommended that you conduct thorough testing and validation before deploying any code in a production environment.
+This repository is provided as-is without any warranties or representations of any kind.
