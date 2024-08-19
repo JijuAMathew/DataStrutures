@@ -1,3 +1,27 @@
+/*Deque: A Comprehensive Overview
+Introduction
+A Deque (Double Ended Queue) is a versatile linear data structure that allows insertions and deletions at both its ends: the front and the rear. This flexibility distinguishes it from a regular queue, which only permits insertions at the rear and deletions at the front.
+
+Types of Deques
+Input-restricted deque: Allows insertions at only one end but permits deletions at both ends.
+Output-restricted deque: Allows deletions at only one end but permits insertions at both ends.
+Basic Operations
+insertFront(data): Inserts an element at the front of the deque.
+insertRear(data): Inserts an element at the rear of the deque.
+deleteFront(): Removes and returns the element at the front of the deque.
+deleteRear(): Removes and returns the element at the rear of the deque.
+isFull(): Checks if the deque is full.
+isEmpty(): Checks if the deque is empty.
+peekFront(): Returns the value of the element at the front without removing it.
+peekRear(): Returns the value of the element at the rear without removing it.
+Applications
+Stack and Queue implementation: By restricting operations, a deque can simulate both stacks and queues.
+Job scheduling: Effectively manage and prioritize jobs.
+Undo/Redo functionality: Store application states for undo and redo operations.
+Sliding window problems: Find maximum or minimum elements in a sliding window.
+Implementation using a Doubly Linked List
+A doubly linked list is an ideal choice for implementing a deque due to its efficient support for insertions and deletions at both ends.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
